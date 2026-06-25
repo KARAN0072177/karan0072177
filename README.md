@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Karan Vani 
 
-**Full Stack Developer** | **MERN/Next.js Specialist** | **Performance-Obsessed Coder**  
+**Full-Stack Engineer** | **Building Real-Time SaaS Products** | **Next.js & TypeScript**
 
-Passionate about building full-stack web applications with **React, Node.js, and MongoDB**, now diving deep into **Next.js 13+ and TypeScript** to create production-grade solutions.
+Currently building production-grade SaaS platforms using Next.js, TypeScript, MongoDB, Redis, AWS, and modern cloud tooling.
+
+Creator of **NexSyncHub**, a real-time collaboration workspace featuring messaging, task management, AI-powered moderation, administration systems, and secure cloud infrastructure.
+
+Passionate about scalable architectures, developer experience, performance optimization, and shipping products that solve real problems.
 
 ---
 
@@ -25,14 +29,44 @@ Passionate about building full-stack web applications with **React, Node.js, and
 ![Postman](https://img.shields.io/badge/-Postman-000000?logo=postman)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?logo=security)
 
+## ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/-AWS-000000?logo=amazonaws&logoColor=FF9900)
+![Redis](https://img.shields.io/badge/-Redis-000000?logo=redis&logoColor=DC382D)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?logo=cloudflare&logoColor=F38020)
+![Stripe](https://img.shields.io/badge/-Stripe-000000?logo=stripe&logoColor=635BFF)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-000000?logo=socketdotio&logoColor=FFFFFF)
+
 ---
 
 ## 🚀 Current Focus
 
-- **Next.js 13+** App Router with TypeScript  
-- **Advanced Rendering**: SSR, ISR, and Edge Functions  
-- **API Optimization**: GraphQL & REST best practices  
-- **Security**: Implementing OWASP standards  
+- Building and scaling SaaS products with Next.js & TypeScript
+- Real-time systems using Socket.IO and Redis
+- AI-powered moderation and automation workflows
+- Security hardening (OWASP, CSP, Cloudflare Turnstile)
+- Cloud infrastructure with AWS S3 and Vercel
+
+---
+
+## 🌟 Featured Project
+
+### NexSyncHub
+**Real-Time Collaboration Workspace**
+
+A production SaaS platform that combines:
+
+- 💬 Real-time team messaging
+- ✅ Task and workflow management
+- 🤖 AI-powered content moderation
+- 🛡️ Admin & Super Admin dashboards
+- ☁️ AWS S3 media infrastructure
+- 🔒 Cloudflare Turnstile & OWASP security practices
+- 💳 Stripe-ready subscription architecture
+
+**Tech Stack:** Next.js, TypeScript, MongoDB, Socket.IO, Upstash Redis, AWS S3, Stripe
+
+🔗 https://nexsynchub.com
 
 ---
 
@@ -49,13 +83,14 @@ Passionate about building full-stack web applications with **React, Node.js, and
 
 ---
 
-## 🤝 Collaboration Interests
+## 🤝 Open To
 
-- **Freelance Opportunities**: Next.js/React projects  
-- **Open-Source Contributions**: JavaScript/TS libraries  
-- **Technical Discussions**: Architecture & optimization  
+- Full-Stack & Frontend Engineering opportunities
+- Open-source collaboration
+- SaaS, cloud, and real-time application development
+- Technical discussions around architecture, security, and performance
 
 ---
 
-> *"Clean code solves problems. Great code anticipates them."*  
+> "Big projects stop feeling impossible once you build them one feature at a time."
 > Let's build something remarkable! ✨
