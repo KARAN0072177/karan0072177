@@ -78,7 +78,7 @@ A production SaaS platform that combines:
   
   ![Top Languages](https://github-readme-stats-pearl-nine-51.vercel.app/api/top-langs/?username=karan0072177&layout=compact&theme=github_dark&hide_border=true)
   
-  ![Coding Streak](https://github-readme-streak-stats-delta-jet.vercel.app/?user=karan0072177)
+  ![Coding Streak](https://github-readme-streak-stats-delta-jet.vercel.app/?user=karan0072177&theme=github-dark-blue&hide_border=true)
 </div>
 
 ---
