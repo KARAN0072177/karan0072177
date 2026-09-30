@@ -74,9 +74,9 @@ A production SaaS platform that combines:
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karan0072177&show_icons=true&theme=github_dark&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats-pearl-nine-51.vercel.app/api?username=karan0072177&show_icons=true&theme=github_dark&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karan0072177&layout=compact&theme=github_dark&hide_border=true)
+  ![Top Languages](https://github-readme-stats-pearl-nine-51.vercel.app/api/top-langs/?username=karan0072177&layout=compact&theme=github_dark&hide_border=true)
   
   ![Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=karan0072177&theme=github_dark&hide_border=true)
 </div>
